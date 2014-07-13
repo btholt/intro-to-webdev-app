@@ -1,6 +1,6 @@
 # Intro to WebDev App
 
-This app is the accompanying app for the Intro to Web Dev class taught by @btholt and @nnja for [Frontend Masters](http://www.frontendmasters.com).
+This app is the accompanying app for the Intro to Web Dev class taught by [@btholt](https://github.com/btholt) and [@nnja](https://github.com/nnja) for [Frontend Masters](http://www.frontendmasters.com).
 
 It is a very basic Twitter clone using node.js and jQuery.
 
