@@ -1,0 +1,12 @@
+{
+  "name": "intro-to-webdev-app",
+  "version": "0.0.0",
+  "description": "Intro to Web Dev app for Frontend Masters",
+  "main": "app.js",
+  "author": "Brian Holt <bri@nho.lt>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.6.0",
+    "body-parser": "~1.4.3"
+  }
+}
