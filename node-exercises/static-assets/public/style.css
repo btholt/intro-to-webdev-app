@@ -1,0 +1,9 @@
+button {
+  font-size: 50px;
+  background-color: pink;
+  border: 2px solid transparent;
+}
+
+img {
+  float:left;
+}
