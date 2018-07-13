@@ -1,8 +1,14 @@
-# Intro to WebDev App
+# Updated Course Released
 
-This app is the accompanying app for the Intro to Web Dev class taught by [@btholt](https://github.com/btholt) and [@nnja](https://github.com/nnja) for [Frontend Masters](http://www.frontendmasters.com).
+🔥 There is an updated version of this course available here: [Complete Intro to Web Development, v2](https://frontendmasters.com/courses/web-development-v2/)
+
+# Intro to Web Dev App
+
+This app is the accompanying app the first Intro to Web Dev class taught by [@btholt](https://github.com/btholt) and [@nnja](https://github.com/nnja) for [Frontend Masters](http://www.frontendmasters.com).
 
 The slides to accompany this presentation you may find [here](https://docs.google.com/presentation/d/1KeWOWSM28qYI1mtkuHkY2vB2UUhwNkg7sq_LPqfYXKs/edit?usp=sharing).
+
+The course videos are here: [Introduction to Web Development](https://frontendmasters.com/courses/web-development/).
 
 It is a very basic Twitter clone using node.js and jQuery.
 
